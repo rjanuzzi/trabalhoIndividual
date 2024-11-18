@@ -2,15 +2,11 @@
 
 Este repositório contém o trabalho individual que consiste em clonar o layout de uma tela de escolha própria. A tela escolhida para este projeto foi a do **WhatsApp**.
 
-<div align="center">
 # Original 📱
 <img src="./imagem/wpporigi.jpg" alt="Tela Original" width="400">
-</div>
 
-<div align="center">
 # Clone 📱
 <img src="./imagem/clonewpp.jpg" alt="Tela Original" width="400">
-</div>
 
 ## 📝 Descrição do Projeto
 
