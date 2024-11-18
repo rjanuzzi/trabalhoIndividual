@@ -8,7 +8,7 @@ Este repositório contém o trabalho individual que consiste em clonar o layout 
 
 # Clone 📱
 
-https://i.imgur.com/YCpXmPR.jpeg
+![Tela Clonada](./imagem/clonewpp.jpg)
 
 ## 📝 Descrição do Projeto
 
