@@ -4,10 +4,15 @@ Este repositório contém o trabalho individual que consiste em clonar o layout 
 
 # Original 📱
 
+<div align="center">
 <img src="./imagem/wpporigi.jpg" alt="Tela Original" width="400">
+</div>
 
 # Clone 📱
+
+<div align="center">
 <img src="./imagem/clonewpp.jpg" alt="Tela Original" width="400">
+</div>
 
 ## 📝 Descrição do Projeto
 
