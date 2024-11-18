@@ -4,7 +4,7 @@ Este repositório contém o trabalho individual que consiste em clonar o layout 
 
 # Original 📱
 
-https://i.imgur.com/Ibnhfcq.jpeg
+![Tela Original](./imagem/wpporigi.jpg)
 
 # Clone 📱
 
