@@ -24,8 +24,8 @@ Este repositório contém o trabalho individual que consiste em clonar o layout 
   npm install react-native-vector-icons
 
 - Navegação:
-  ```bash  
-npm install @react-navigation/native @react-navigation/stack expo-status-bar
+  ```bash
+  npm install @react-navigation/native @react-navigation/stack expo-status-bar
 
 - Criação do projeto:  
 npx create-expo-app -t
